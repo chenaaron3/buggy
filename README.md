@@ -3,10 +3,11 @@ An embedded RC Car made with a Raspberry Pi.
 
 ## Features
 - Control with keyboard or gamecube controller
-- Connected through wifi
+- Connected through wifi or bluetooth
+- Live streaming camera with 30 fps
 
 ## Next Steps
-- Add camera module and stream video to client
-- Improve driving system (kinda choppy right now)
+- Connect to car with Web Bluetooth
+- Build a better case
 
 ## Photos
